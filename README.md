@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PRAKTIKUM 2: Kondisi If dan Perulangan
 Tujuan 
 ## Kondisi IF
